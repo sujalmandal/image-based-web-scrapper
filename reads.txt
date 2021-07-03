@@ -1,0 +1,2 @@
+https://www.danvk.org/2015/01/07/finding-blocks-of-text-in-an-image-using-python-opencv-and-numpy.html
+https://stackoverflow.com/questions/23506105/extracting-text-opencv
